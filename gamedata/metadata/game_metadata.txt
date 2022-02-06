@@ -1,0 +1,6 @@
+devid=puyo
+devtitle=puyo
+gameid=puyo
+gametitle=puyo
+version=0.1
+icon=metadata/mofu2.png
